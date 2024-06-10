@@ -25,7 +25,7 @@ For more details about the techniques of TQCompressedGPT-2, refer to our paper: 
 **Install:** run `pip install -e .`\
 **NOTE:** Model was tested on torch==2.0.1+cu117 (CUDA 11.7). For detailed guide on installation [visit PyTorch Website](https://pytorch.org/)\
 The model and code are publicly available at:
-- [GitHub Repository](https://github.com/terra-quantum-io/TQCompressedGPT2)
+- [GitHub Repository](https://github.com/terra-quantum-public/TQCompressedGPT2)
 - [HuggingFace Repository](https://huggingface.co/tq-ag/TQCompressedGPT2)
 
 # Citation
